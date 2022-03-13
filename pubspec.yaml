@@ -1,0 +1,6 @@
+name: flutterello
+environment:
+  sdk: 2.16.1
+dependencies:
+  flutter:
+    sdk: flutter
