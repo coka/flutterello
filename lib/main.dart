@@ -35,7 +35,6 @@ class AddAListWidget extends StatelessWidget {
         child: Text(
           'Add a list',
           style: TextStyle(color: Color.fromRGBO(255, 255, 255, 1.0)),
-          textDirection: TextDirection.ltr,
         ),
       ),
     );
